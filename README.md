@@ -3,7 +3,7 @@
 ![themeforest template](https://github.com/hakimov-dev/landing-template/assets/83240328/e09b9efb-732a-4d38-a409-d145eab7992b)
 
 ## Support this project 😇
-<a href="https://www.buymeacoffee.com/hakimovDev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffe&emoji=&slug=hakimovDev&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/hakimovDev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hakimovDev&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
 
