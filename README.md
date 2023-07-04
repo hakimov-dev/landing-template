@@ -1,5 +1,32 @@
 # Landing page template
 
+![themeforest template](https://github.com/hakimov-dev/landing-template/assets/83240328/e09b9efb-732a-4d38-a409-d145eab7992b)
+
+<a href="https://www.buymeacoffee.com/hakimovDev">
+  <img height="48px" src="https://github.com/hakimov-dev/landing-template/assets/83240328/aae487ea-d4c8-423a-b9d6-05ed0efe35a6" alt="Buy me a coffee"/>
+</a>
+
+
+## About this project 👨‍💻
+
+### Introducing a Cutting-Edge Landing Page Powered by Nuxt.js, Vue.js, TypeScript, Tailwind CSS, and AOS!
+
+Our exceptional landing page showcases the perfect blend of innovative technologies, delivering a stunning user experience. Created using the powerful combination of Nuxt.js, Vue.js, TypeScript, Tailwind CSS, and AOS (Animate On Scroll), this landing page is a game-changer.
+
+Nuxt.js, built on Vue.js, provides server-side rendering and generates static sites, ensuring lightning-fast performance and improved search engine optimization. Vue.js, renowned for its simplicity and versatility, empowers seamless component integration, resulting in a seamless and interactive user journey.
+
+Harnessing the power of TypeScript, our landing page offers a robust development environment with enhanced code quality, increased collaboration, and improved productivity. Leveraging static typing and advanced tooling, TypeScript elevates your project's reliability and scalability.
+
+The visually captivating design of our landing page is made possible by Tailwind CSS. This utility-first CSS framework equips us with a comprehensive set of pre-built components and a flexible class-based system. With Tailwind CSS, we effortlessly customize styles while staying on top of the latest design trends.
+
+To add an extra layer of sophistication and interactivity, we have integrated the AOS (Animate On Scroll) library. Brace yourself for captivating animations triggered by scrolling, seamlessly enhancing the overall user experience. Engage and mesmerize your visitors with smooth transitions, fades, and parallax effects.
+
+Our landing page masterfully integrates these powerful technologies, ensuring optimal performance, unparalleled visual appeal, and intuitive user interaction. Whether you're promoting a product, service, or event, our landing page built with Nuxt.js, Vue.js, TypeScript, Tailwind CSS, and AOS is guaranteed to leave a lasting impression.
+
+Embark on a transformative journey by embracing the power of our exceptional landing page template. Experience the perfect convergence of aesthetics, functionality, and ease of use, all driven by the latest web technologies. Take your online presence to new heights with our remarkable landing page creation.
+
+Get started today and unlock a world of possibilities with our groundbreaking landing page template. Elevate your brand, captivate your audience, and set yourself apart from the competition with our powerful Nuxt.js, Vue.js, TypeScript, Tailwind CSS, and AOS landing page.
+
 ## Build Setup
 
 ```bash
